@@ -1,3 +1,3 @@
 # Author shaw
 
-print("hello shaw")
+print("welcome to python")
